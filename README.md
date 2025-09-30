@@ -41,6 +41,7 @@ Microsoft Excel (optional, for viewing/editing dataset)
 
 Download both files (.pbix and .xlsx).
 ## Data : https://github.com/skhade88/Insight360-Power-BI-Dashboard-for-S-N-Corporation/blob/main/Power%20BI%20Dataset.xlsx
+## Dashboard :
 
 Open Power BI Desktop.
 
